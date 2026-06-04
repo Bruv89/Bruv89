@@ -2,7 +2,9 @@
 Main projects: 
 
 FakeBuster — Fake News Detection System based on XLM-RoBERTa (98%+ accuracy)
+Kotoba Search — Anime Transcript Search Engine
 Languages & Tools: Python · Java · C · JavaScript · PyTorch · scikit-learn · Git
+
 
 <!--
 **Bruv89/Bruv89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
